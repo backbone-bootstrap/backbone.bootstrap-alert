@@ -1,0 +1,26 @@
+{
+	"name": "backbone.bootstrap-alert",
+	"description": "Bootstrap Alert wrapper for use with Backbone",
+	"version": "0.1.0",
+	"homepage": "https://github.com/backbone-bootstrap/backbone.bootstrap-alert",
+	"author": {
+		"name": "Stanislav Lesnikov",
+		"email": "stan@nashdot.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/backbone-bootstrap/backbone.bootstrap-alert"
+	},
+	"bugs": {
+		"url": "https://github.com/STAH/grunt-bom2/issues"
+	},
+	"licenses": [{
+		"type": "MIT",
+		"url": "https://github.com/backbone-bootstrap/backbone.bootstrap-alert/blob/master/LICENSE-MIT"
+	}],
+
+	"dependencies": {
+		"backbone": ">=0.9.10"
+	},
+	"main": "src/backbone.bootstrap-alert.js"
+}
